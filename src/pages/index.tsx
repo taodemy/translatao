@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <nav>
       logo
+      738274837847
     </nav>
   );
 }
