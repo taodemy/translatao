@@ -7,6 +7,8 @@ const RightSection = () => {
       <div className="w-52 h-12 gap-6">
           <div className="w-32 h-12 gap-6 flex justify-between items-center">
             <SettingsOutlinedIcon />
+            <AppsRoundedIcon />
+            <AccountCircleOutlinedIcon />
           </div>
       </div>
     );
