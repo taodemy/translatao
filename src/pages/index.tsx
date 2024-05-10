@@ -1,4 +1,4 @@
-import NavbarComponent from "./landingPage/navbar/NavbarComponent"
+import NavbarComponent from "./components/navbar/NavbarComponent"
 
 export default function Home() {
   return (
