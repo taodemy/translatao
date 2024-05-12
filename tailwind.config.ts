@@ -25,7 +25,7 @@ const config: Config = {
         secondary_200: '#6E74B9',
         secondary_100: '#8288CE',
         accent: '#F5F7FF',
-        white: '#FEFEFE',
+        white_normal: '#FEFEFE',
         light_normal: '#E8E8E8',
         light_400: '#D9D9D9',
         light_300: '#BFBFBF',
